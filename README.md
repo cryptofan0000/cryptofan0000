@@ -55,7 +55,7 @@ Contact me on <b>Telegram</b>: @cryptofan0000
 
 </td></tr></table>  
 <p align="center">
-    <img alt="status github, commits, etc..." height="150px" src="https://github-readme-stats.vercel.app/api?username=cryptoman9997&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
+    <img alt="status github, commits, etc..." height="150px" src="https://github-readme-stats.vercel.app/api?username=cryptofan0000&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
     /> 
-    <img alt="most used languages" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptoman9997&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
+    <img alt="most used languages" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptofan0000&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
 </p>
